@@ -1,3 +1,3 @@
-- Keep: 잘 했기 때문에 유지하고 싶은 것
-- Problem: 어려움을 느껴 개선하고 싶은 것
-- Try: 구체적으로 시도할 내용
+- Keep: I would like to maintain this, as I have done well.
+- Problem: I am facing difficulties and would like to improve.
+- Try: I will specifically try the following:
