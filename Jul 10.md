@@ -1,3 +1,3 @@
-- Keep: 
+- Keep: Practiced controlling lots of statements such as 'for loops' and 'if statements'
 - Problem: 
 - Try: 
