@@ -1,3 +1,3 @@
 - Keep: Practiced controlling lots of statements such as 'for loops' and 'if statements'
-- Problem: 
+- Problem: Coding carefully as a small grammatical error can create errors
 - Try: 
