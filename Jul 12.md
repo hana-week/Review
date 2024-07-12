@@ -1,0 +1,3 @@
+- Keep: discussed modules and packages such as recursive, lambda, and pip
+- Problem: Important to clearly distinguish these differences, because each module uses memory differently 
+- Try: Preparing for the hands-on practice
