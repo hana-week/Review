@@ -1,3 +1,3 @@
-- Keep: Explored handling classes using constructors and decorators, and overwriting dunder methods to reconfigure functions.
+- Keep: Explored handling classes using constructors and decorators, and overriding dunder methods to reconfigure functions.
 - Problem: 
 - Try: 
