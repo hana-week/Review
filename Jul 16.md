@@ -1,3 +1,3 @@
 - Keep: Explored handling classes using constructors and decorators, and overriding dunder methods to reconfigure functions.
-- Problem: 
-- Try: 
+- Problem: Established the goal to master Class parameter assignment, inheritance, and encapsulation
+- Try: Understanding is the First Goal
