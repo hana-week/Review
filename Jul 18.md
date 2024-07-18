@@ -1,3 +1,3 @@
 - Keep: Studied Pandas, a panel data system that allows you to track multiple entities over time to obtain data
-- Problem: 
+- Problem: Experienced that NumPy operations can be used directly when working with the DataFrame data type
 - Try: 
