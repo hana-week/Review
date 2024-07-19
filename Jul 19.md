@@ -1,3 +1,3 @@
 - Keep: Practiced Exploratory Data Analysis (EDA) and the Python library MATPLOTLIB, which are widely used in big data analysis
 - Problem: Approached initially the statistics in a bottom-up manner, focusing on understanding the meaningful aspects, Subsequently, the additional information obtained was verified through a top-down approach
-- Try: 
+- Try: Emphasizing the importance of minimizing the time required to acquire insights from data
