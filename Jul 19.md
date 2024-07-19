@@ -1,3 +1,3 @@
-- Keep: 
+- Keep: Practiced Exploratory Data Analysis (EDA) and the Python library MATPLOTLIB, which are widely used in big data analysis
 - Problem: 
 - Try: 
