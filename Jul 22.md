@@ -1,0 +1,3 @@
+- Keep: Visualized scatter plots, count plots, and dist plots, which are essential for analysis and testing
+- Problem: 
+- Try: 
