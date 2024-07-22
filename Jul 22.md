@@ -1,3 +1,3 @@
 - Keep: Visualized scatter plots, count plots, and dist plots, which are essential for analysis and testing
 - Problem: Able to see how to customize charts on plotly.com
-- Try: 
+- Try: Drawing a time series graph of Samsung Electronics using the Yahoo Finance module called 'yfinance'
