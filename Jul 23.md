@@ -1,3 +1,3 @@
 - Keep: Created a file using the streamlit command in the vscode terminal and used it on the web
 - Problem: Implemented visualization using matplotlib and st.pyplot(), but the Korean text was garbled
-- Try: Switched to an interactive package that properly displays Korean characters
+- Try: Switching to an interactive package that properly displays Korean characters
