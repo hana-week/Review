@@ -1,0 +1,3 @@
+- Keep: Learned about databases and SQL, and set up a practice environment
+- Problem: Practiced creating tables and querying and sorting data
+- Try: Following along with handling data using SQL, which can be considered the beginning of data analysis
