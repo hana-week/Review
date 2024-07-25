@@ -1,0 +1,3 @@
+- Keep: Used indexes effectively on frequently used columns
+- Problem: Displayed the results of data that are not easy to understand at a glance in a noticeable way
+- Try: Reducing network latency through stored procedures
