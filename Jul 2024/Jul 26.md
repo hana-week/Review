@@ -1,1 +1,3 @@
-
+- Keep: Updated the existing values instead of inserting new ones for rows where a conflict occurs, when adding the ON DUPLICATE KEY UPDATE clause
+- Problem: An UPDATE or DELETE statement can modify or delete the entire table's data if the WHERE clause is accidentally omitted
+- Try: Unchecking the "Safe Updates (rejects UPDATEs and DELETEs with no restrictions)" option
