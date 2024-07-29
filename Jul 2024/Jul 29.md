@@ -1,3 +1,3 @@
-- Keep: 
-- Problem: 
-- Try: 
+- Keep: UNIQUE allows only unique values to be stored by creating an index when the constraint is applied, and it allows nulls
+- Problem: Primary Key differs from UNIQUE in that it does not allow duplicates or nulls
+- Try: Improperly defining user-defined indexes can slow down search speed, so it is important to learn how to use indexes properly
