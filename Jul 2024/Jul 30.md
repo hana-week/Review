@@ -1,3 +1,3 @@
-- Keep: 
-- Problem: 
-- Try: 
+- Keep: Used stored procedures to bundle multiple frequently used SQL statements together and execute them collectively like a function
+- Problem: Triggers are pre-configured to automatically execute additional query tasks when an update, insert, or delete operation occurs on a table
+- Try: The difference between a stored procedure and a trigger is that, a stored procedure is executed only when explicitly called, while a trigger is executed automatically every time a DML operation is performed
