@@ -1,3 +1,3 @@
-- Keep: 
-- Problem: 
-- Try: 
+- Keep: Created a kernel for Python virtual environments and connect it to Jupyter Lab
+- Problem: Declared a cursor to easily repeat data fetching and processing
+- Try: Using methods such as fetchall(), fetchone(), and fetchmany() of the Cursor object to utilize data retrieved from the server in the code
