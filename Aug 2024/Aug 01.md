@@ -1,3 +1,3 @@
-- Keep: 
-- Problem: 
-- Try: 
+- Keep: Created a program that recommends accommodations based on the travel destination and desired amenities entered by the user
+- Problem: The .env file was uploaded to git, causing an issue where my API usage is blocked
+- Try: Never upload the .env file to GitHub
