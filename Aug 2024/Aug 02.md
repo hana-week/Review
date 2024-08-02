@@ -1,3 +1,3 @@
-- Keep: 
-- Problem: 
-- Try: 
+- Keep: Understand the concept that Docker is an open-source platform for managing and distributing container images using container virtualization technology
+- Problem: Tried creating and stopping containers, and checking logs
+- Try: Using Docker to access running containers and execute multiple processes or manage resources for usage
